@@ -1,0 +1,53 @@
+{
+    'sim_id': 521024148923425733,
+    'sim_name': 'yusun#chen',
+    'category_text': 'SPECIAL',
+    'category': 8,
+    'index': 0,
+    'outfit': {
+        2: {
+            'Description': 'Hair',
+            'CAS_Part_Instance': 8874678697573014797
+        },
+        3: {
+            'Description': 'Head',
+            'CAS_Part_Instance': 6977
+        },
+        4: {
+            'Description': 'Teeth',
+            'CAS_Part_Instance': 12051232814398692410
+        },
+        5: {
+            'Description': 'Full_body',
+            'CAS_Part_Instance': 9223372039155223133
+        },
+        8: {
+            'Description': 'Shoes',
+            'CAS_Part_Instance': 13661806457601852065
+        },
+        16: {
+            'Description': 'Lip_ring_left',
+            'CAS_Part_Instance': 9223372039285458120
+        },
+        19: {
+            'Description': 'Nose_ring_right',
+            'CAS_Part_Instance': 247462
+        },
+        21: {
+            'Description': 'Brow_ring_right',
+            'CAS_Part_Instance': 11723866761692240821
+        },
+        26: {
+            'Description': 'Middle_finger_left',
+            'CAS_Part_Instance': 40177
+        },
+        34: {
+            'Description': 'Eyebrows',
+            'CAS_Part_Instance': 51230
+        },
+        35: {
+            'Description': 'Eyecolor',
+            'CAS_Part_Instance': 18268921493907021513
+        }
+    }
+}
